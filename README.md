@@ -1,22 +1,22 @@
 # Merhaba, ben Emirhan 👋
 
-**Yapay zekâ destekli otomasyon ve ürün geliştiriciyim.** Claude, GPT ve Gemini gibi bulut modellerini, Ollama ve LM Studio üzerinde çalışan lokal modellerle birlikte kullanarak fikirden çalışan ürüne kadar bütün zinciri kuruyorum: veri ve sinyal analizi, backend, arayüz ve demo.
+**AI-native geliştiriciyim.** Claude Code ve LLM ajanlarıyla, bulut modellerini (Claude, GPT, Gemini) Ollama ve LM Studio üzerindeki lokal modellerle birlikte kullanarak fikirden canlıya ürün çıkarıyorum. Fizik ve grafik tasarım geçmişim sayesinde hem problemin matematiğini hem de sunumunu yönetiyorum.
 
-- 🏢 Canlıda kullanılan kurumsal operasyon ve tahsilat otomasyonu (Supabase · Vercel · Microsoft Graph · GitHub Actions)
-- 🛡️ FPV drone akustik erken uyarı Ar-Ge'si: tespit başarısı **AUC 0,54 → 0,89**, model mikrodenetleyici için C'ye aktarıldı
-- 🛍️ E-ticaret için yapay zekâ satış ve stil danışmanı, 3D ürün vitrinli web siteleri
-- 🎬 TTS ve programatik animasyonla otomatik video üretim hattı
-
-## Öne çıkan projeler
-| Proje | Ne yapıyor | Teknoloji |
+## Yapay zekâ ile neler yapıyorum
+| Alan | Örnek | Kanıt |
 |---|---|---|
-| [isg-saha-portali](https://github.com/emirhnnnk-lab/isg-saha-portali) | OSGB'ler için dış saha İSG yönetim portalı: rol bazlı panel, saha raporu, görev akışı | JS · Tailwind · Supabase |
-| [war-room](https://github.com/emirhnnnk-lab/war-room) | Piyasa verisi toplayan, sinyal üreten ve raporlayan analiz sistemi | Python · Supabase |
+| 🏢 **Kurumsal otomasyon** | E-posta, tahsilat, raporlama ve onay akışlarını otomatiğe bağlama. Canlıda kullanılan sistem | [isg-saha-portali](https://github.com/emirhnnnk-lab/isg-saha-portali) |
+| 🤖 **LLM uygulamaları** | Ajanlar, RAG, doküman ve evrak işleme, lokal ve bulut modeller | *RAG asistanı (yakında)* |
+| 🛡️ **Sinyal işleme ve ML** | FPV drone akustik tespiti: **AUC 0,54 → 0,89**, model mikrodenetleyici için C'ye aktarıldı | *Kalkan (yakında)* |
+| 🛍️ **Web ve e-ticaret** | 3D ürün vitrinli siteler, ürün gösteren ve kombin kuran yapay zekâ satış danışmanı | *Defne (yakında)* |
+| 📊 **Veri toplama ve analiz** | Piyasa, trend ve rakip verisi, sinyal üretimi, otomatik PDF rapor | [war-room](https://github.com/emirhnnnk-lab/war-room) |
+| 🎬 **İçerik otomasyonu** | TTS, programatik animasyon, otomatik video üretim hattı (3 kanal) | *ytfactory (yakında)* |
 
-*Daha fazla proje ve demo videoları yakında portfolyo sitemde.*
+## Diller
+`Python` `JavaScript / Node.js` `HTML / CSS` `SQL` `C` `PowerShell / Bash`
 
 ## Araçlar
-`Python` `JavaScript / Node.js` `FastAPI` `Supabase` `Vercel` `GitHub Actions` `Docker` `Ollama` `LM Studio` `Claude Code` `numpy / scipy / scikit-learn` `pandas` `Microsoft Graph API`
+`Claude Code` `Ollama` `LM Studio` `FastAPI` `Supabase` `Vercel` `GitHub Actions` `Microsoft Graph API` `Tailwind` `numpy / scipy / scikit-learn` `pandas` `Gazebo / PX4`
 
 ## İletişim
 📫 emirhnnnk@gmail.com
