@@ -9,7 +9,7 @@
 | 🤖 **LLM uygulamaları** | Ajanlar, RAG, doküman ve evrak işleme, lokal ve bulut modeller | *RAG asistanı (yakında)* |
 | 🛡️ **Sinyal işleme ve ML** | FPV drone akustik tespiti: **AUC 0,54 → 0,89**, model mikrodenetleyici için C'ye aktarıldı | *Kalkan (yakında)* |
 | 🛍️ **Web ve e-ticaret** | 3D ürün vitrinli siteler, ürün gösteren ve kombin kuran yapay zekâ satış danışmanı | *Defne (yakında)* |
-| 📊 **Veri toplama ve analiz** | Piyasa, trend ve rakip verisi, sinyal üretimi, otomatik PDF rapor | [war-room](https://github.com/emirhnnnk-lab/war-room) |
+| 📊 **Veri toplama ve analiz** | Piyasa, trend ve rakip verisi, sinyal üretimi, otomatik PDF rapor | [risk-first-trading-lab](https://github.com/emirhnnnk-lab/risk-first-trading-lab) |
 | 🎬 **İçerik otomasyonu** | TTS, programatik animasyon, otomatik video üretim hattı (3 kanal) | *ytfactory (yakında)* |
 
 ## Diller
