@@ -2,9 +2,9 @@
 
 # Merhaba, ben Emirhan
 
-**Kod yazmıyorum. Ajanlara yazdırıyorum ve nerede patladıklarını ölçüyorum.**
+**Yapay zekâ ajanlarıyla yazılım kuruyorum ve nerede patladıklarını ölçüyorum.**
 
-2021'den beri video kurguluyorum, 2022'den beri yapay zekâyı her gün kullanıyorum. Bugün ajanlarla gerçek işletmelere sistem kuruyorum. Her projede önce neyin asla olmaması gerektiğini yazıyorum, sonra sistemi o hatayı yapana kadar zorluyorum. Patladığı yerleri saklamıyorum.
+2021'den beri video kurguluyorum. 2022'de yapay zekâ araçları çıkınca Python öğrenmeye başladım, sonra kodu yapay zekâyla birlikte yazmaya geçtim; Temmuz 2022'den beri serbest olarak yapay zekâ işleri yapıyorum. Bugün ajanlarla gerçek işletmelere sistem kuruyorum. Her projede önce neyin asla olmaması gerektiğini yazıyorum, sonra sistemi o hatayı yapana kadar zorluyorum. Patladığı yerleri saklamıyorum.
 
 🌐 **Canlı demolar ve hikâyeler:** [emirhan-karaca.vercel.app](https://emirhan-karaca.vercel.app)
 
